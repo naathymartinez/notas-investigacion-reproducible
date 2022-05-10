@@ -1,4 +1,5 @@
-# __Notas sobre investigación reproducible y análisis de datos Reproductibilidad__
+# __Notas sobre investigación reproducible y análisis de datos__ 
+
 
 ## **Reproductibilidad**
 
